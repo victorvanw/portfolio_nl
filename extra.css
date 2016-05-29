@@ -1,0 +1,21 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+p {
+	font-size: 10px;
+	color: red;
+	line-height: 1.3em;
+}
+
+.mbr-section__container--middle {
+	padding-bottom: 15px;
+}
+
+img {
+	border: 1px solid black;
+}
+
+a img:hover {
+	border: 1px solid red;
+}
